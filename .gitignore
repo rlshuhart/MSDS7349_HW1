@@ -107,8 +107,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-.ipynb_checkpoints/
+*checkpoint.ipynb
 evil/evil.jpg
 evil/note_to_adam.txt
 MSDS7349-HW1-DueWeek5.pdf
 *.pdf
+pdfs/Title Page.docx
+*.html
